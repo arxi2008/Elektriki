@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dimka-vadimka-electro.by/sitemap.xml
